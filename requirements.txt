@@ -23,3 +23,5 @@ colormap>=1.0.3
 easydev>=0.10.1
 holoviews
 pathos
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
